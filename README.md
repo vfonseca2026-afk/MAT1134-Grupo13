@@ -19,6 +19,8 @@ Este proyecto audiovisual, desarrollado utilizando **Manim Community**, aborda e
 * **Motor de Animación:** Manim Community
 * **Gestión de Dependencias:** `uv`
 * **Compilación LaTeX:** MiKTeX
+  ### Ficha informativa
+* **Ficha Informativa Oficial:** [Ver Ficha PDF](./Ficha%20MAT1134_EID_G13_2026.pdf)
 
 ### Instrucciones de Ejecución
 Para clonar el repositorio y renderizar el video localmente:
