@@ -12,7 +12,7 @@ Repositorio oficial del proyecto grupal para la asignatura **MAT1134** de la Uni
 
 ### Descripción del Proyecto
 Este proyecto audiovisual, desarrollado utilizando **Manim Community**, aborda el análisis conceptual y gráfico de las sumas de Riemann para responder a la pregunta central:
-> *¿Qué significa realmente hacer que $n \to \infty$ en una suma de Riemann, y por qué el infinito es una tendencia y no un número que se pueda sustituir directamente?*
+> *¿Qué significa realmente hacer que n tienda a infinito en una suma de Riemann, y por qué el infinito es una tendencia y no un número que se pueda sustituir directamente?*
 
 ### Tecnologías y Entorno
 * **Lenguaje:** Python
